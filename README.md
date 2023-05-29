@@ -57,7 +57,7 @@ Tenho 30 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
 ##
 <p align="center">
 <a href="https://github.com/PedroHLZ">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroHLZ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroHLZ&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroHLZ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroHLZ&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
