@@ -1,18 +1,18 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://avatars.githubusercontent.com/u/123014853?v=4">
-
+ <img align="right" width="250px" style="margin-top:-20px" src="https://avatars.githubusercontent.com/u/123014853?v=4">
 </br>
 </br>
-
-<div dsplay="inline-block">
- 
+<div>
  <h1 align="left">Pedro Queiroz</h1>
+<div>
+   <a href="https://github.com/PedroHLZ">
+    <p>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroHLZ&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+     
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHLZ&layout=compact&langs_count=6&theme=transparent"/>
+     </p>
 
-<p align="right">
-<a href="https://github.com/PedroHLZ">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHLZ&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHLZ&layout=compact&theme=tokyonight"/>
-</a>
-</p>
+</div>
+
 </div>
 
 
@@ -46,7 +46,7 @@ Tenho 30 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
  <p align="left">☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.</p>
 </div>
 
-
+  ![Snake animation](https://github.com/PedroHLZ/pedrohlz/blob/output/github-contribution-grid-snake.svg)
 
 </br>
 
