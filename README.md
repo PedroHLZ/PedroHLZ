@@ -46,8 +46,9 @@ Tenho 30 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
  <p align="left">☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.</p>
 </div>
 
-  ![Snake animation](https://github.com/PedroHLZ/pedrohlz/blob/output/github-contribution-grid-snake.svg)
 
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/PedroHLZ/PedroHLZ/blob/output/github-contribution-grid-snake.svg)
 </br>
 
 📫 Você pode falar comigo pelo (eu demoro a responder as vezes 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
