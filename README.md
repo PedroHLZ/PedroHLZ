@@ -47,13 +47,17 @@ Tenho 30 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e feli
 </div>
 
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/PedroHLZ/PedroHLZ/blob/output/github-contribution-grid-snake.svg)
+
 </br>
 
 📫 Você pode falar comigo pelo (eu demoro a responder as vezes 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 <a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+ 
+ </br>
+ <!-- platane/snk works, it just puts it on a new branch -->
+![snake gif](https://github.com/PedroHLZ/PedroHLZ/blob/output/github-contribution-grid-snake.gif)
+
 
 ##
