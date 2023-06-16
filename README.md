@@ -10,22 +10,27 @@
      
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHLZ&layout=compact&langs_count=6&theme=transparent"/>
      </p>
-
 </div>
-
 </div>
-
-
-
-
-
 </br>
 </br>
 
 ## Hello, Devs!!
 
-Tenho 35 anos, vivo em Recife, Pernambuco, e sou um entusiasta da programação! Sou um aventureiro no vasto universo da codificação, mestre na arte de criar bugs, e quanto mais aprendo e enfrento desafios, mais café eu tomo!
+Estou à procura de novas oportunidades de trabalho para contribuir, aprender e crescer.
 
+Se você estiver procurando por alguém com minhas habilidades, por favor, não hesite em entrar em contato comigo.
+
+Eu já tenho conhecimento de tecnologias como HTML, CSS, JavaScript, PHP, MySQL, Python, POWER BI, Photoshop e CorelDraw.
+
+<div display="inline-block">
+ <p align="left">📚 Tenho estudado ultimamente na Udemy, e iniciei meus estudos para desenvolver;</p>
+ <p align="left">☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.</p>
+</div>
+
+Você pode conferir meus projetos na seção de Projetos. Além disso, gosto de compartilhar meus conhecimentos para ajudar a comunidade Dev.
+
+📫Sinta-se à vontade para se conectar comigo ou seguir meu LinkedIn, onde eu compartilho conteúdo útil relacionado ao desenvolvimento e programação web🙃.
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -41,23 +46,10 @@ Tenho 35 anos, vivo em Recife, Pernambuco, e sou um entusiasta da programação!
 
 </br>
 </br>
-<div display="inline-block">
- <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
- <p align="left">☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.</p>
-</div>
 
-
-
-</br>
-
-📫 Você pode falar comigo pelo (eu demoro a responder as vezes 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
-</br>
 <a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
  
  </br>
- <!-- platane/snk works, it just puts it on a new branch -->
-![snake gif](https://github.com/PedroHLZ/PedroHLZ/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/PedroHLZ/PedroHLZ/blob/output/github-contribution-grid-snake.svg)
 
 ##
