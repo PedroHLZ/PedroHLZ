@@ -24,7 +24,7 @@
 
 ## Hello, Devs!!
 
-Tenho 30 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 35 anos, vivo em Recife, Pernambuco, e sou um entusiasta da programação! Sou um aventureiro no vasto universo da codificação, mestre na arte de criar bugs, e quanto mais aprendo e enfrento desafios, mais café eu tomo!
 
 
 
