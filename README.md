@@ -47,7 +47,6 @@ Você pode conferir meus projetos na seção de Projetos. Além disso, gosto de 
 </br>
 </br>
 
-<a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
  
  </br>
 ![snake gif](https://github.com/PedroHLZ/PedroHLZ/blob/output/github-contribution-grid-snake.svg)
